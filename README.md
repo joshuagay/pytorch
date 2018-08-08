@@ -10,6 +10,8 @@ You can reuse your favorite Python packages such as NumPy, SciPy and Cython to e
 
 We are in an early-release beta. Expect some adventures and rough edges.
 
+Also: [**Caffe2 is merging with PyTorch!**](#Caffe2-merges-with-PyTorch)
+
 - [More about PyTorch](#more-about-pytorch)
 - [Installation](#installation)
   - [Binaries](#binaries)
@@ -253,6 +255,10 @@ We appreciate all contributions. If you are planning to contribute back bug-fixe
 
 If you plan to contribute new features, utility functions or extensions to the core, please first open an issue and discuss the feature with us.
 Sending a PR without discussion might end up resulting in a rejected PR, because we might be taking the core in a different direction than you might be aware of.
+
+## Caffe2 merges with PyTorch
+
+In May 2018, the Caffe2 project published a blog post: [*Caffe2 and PyTorch join forces to create a Research + Production platform PyTorch 1.0*](https://caffe2.ai/blog/2018/05/02/Caffe2_PyTorch_1_0.html). The plan is to deeply integrate components of the frameworks and effectively unite them as a single package. This merger will combine the flexible user experience of the PyTorch frontend with scaling, deployment and embedding capabilities of the Caffe2 backend.
 
 ## The Team
 
